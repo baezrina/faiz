@@ -1,3 +1,4 @@
+
 <?php
 include("common.php");
 ?>
@@ -53,3 +54,10 @@ leftmenuitem();
 footernavigator();
 ?>
 </html>
+
+ <footer id="footer">
+        <div id="footer-inner">
+          <p> @Copyright <a href="Avallon1.html">AVALLON</a> | <a href="terms&conditions">Terms & Conditions</a> | <a href="faq.html">Privacy Policy</a></p>
+          <div class="clr"></div>
+        </div>
+      </footer>
